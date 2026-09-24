@@ -20,4 +20,7 @@ Tafsir Ibn Kathir, Tafsir As-Sa'di, and Maulana Wahiduddin Khan translation.
 
 All files are formatted as clean JSON mapped directly by Ayah number for seamless offline reading once downloaded.
 
+-Quran Database:
+Medina font 1406 AH font
+
 Full Changelog: https://github.com/M-H-AFIFI/Siraj-assets/commits/v1.0.0
