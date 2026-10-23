@@ -1,0 +1,245 @@
+[
+  {
+    "path": "audio/adhan/Makkah-Ali-Mulla-2.mp3",
+    "bytes": 350820,
+    "sha256": "fc55ecdadf2981504e3bdea752ff1cc3bb44a6aeef4fc03f4c20dad1f2ab992c",
+    "durationSec": 175.3,
+    "bitrate": 16008,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/Makkah-Haram.mp3",
+    "bytes": 421308,
+    "sha256": "0a869db4cb6bb1b28fcefe732ad31c96ad1e70c06ef1717b8299ee91ff10a375",
+    "durationSec": 210.6,
+    "bitrate": 16006,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/Alaqsa-Naji-Qazzaz.mp3",
+    "bytes": 370332,
+    "sha256": "b0f784ca7b09791c584968d7ba3a96cb4fb64a2ce295a4e6642e36448abb3fe5",
+    "durationSec": 185.1,
+    "bitrate": 16007,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/Mishary-Alafasy-Dubai.mp3",
+    "bytes": 2695344,
+    "sha256": "a6fa619346ea2bea3f1cee6609a83ea6a216b0354f353d84d0dcf4fd2b1d9ab2",
+    "durationSec": 177.3,
+    "bitrate": 121583,
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  {
+    "path": "audio/adhan/Mahmoud-Khalil-Al-Husary.mp3",
+    "bytes": 255060,
+    "sha256": "203acb01211610c39fda5e58999a28932477df52345fc0814e2cffcc430be53f",
+    "durationSec": 127.4,
+    "bitrate": 16011,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/Mahmoud-Ali-Al-Banna.mp3",
+    "bytes": 306540,
+    "sha256": "af099242277ca27066a669870584d2c659df2126d32dd43e6cdc83b66b3d1842",
+    "durationSec": 153.2,
+    "bitrate": 16009,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/Mustafa-Ismail.mp3",
+    "bytes": 736104,
+    "sha256": "5091e6ae3b7c6adc7cc4f70e343d8c387150793f6bf1667e5990f80c2671ee2f",
+    "durationSec": 184.0,
+    "bitrate": 32007,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/adhan/Islam-Sobhi.mp3",
+    "bytes": 3461760,
+    "sha256": "bf95d8a50457898f8e77dc7bb27eca062335f8bfa4256eefae67c6525a77be6f",
+    "durationSec": 173.1,
+    "bitrate": 160022,
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  {
+    "path": "audio/adhan/Al-Rajhi-Riyadh.mp3",
+    "bytes": 298188,
+    "sha256": "cc5612631bf242bb164561209b8300578d697dd474d722469a89db67712ddb62",
+    "durationSec": 149.0,
+    "bitrate": 16009,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/fajr/Makkah-Fajr-2.mp3",
+    "bytes": 430020,
+    "sha256": "65a6c4aa53465ce6f6b6a6475d73420bee26cbc73bcc7dccc603401c1ae92376",
+    "durationSec": 214.9,
+    "bitrate": 16006,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/fajr/Salman-Al-Utaybi-Fajr.mp3",
+    "bytes": 3727777,
+    "sha256": "286067d2dec9f98df51e36515bcc88b35ccb7bd94b7cbd37d399e982bddc15a6",
+    "durationSec": 232.9,
+    "bitrate": 128028,
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  {
+    "path": "audio/adhan/fajr/Egypt-Fajr.mp3",
+    "bytes": 491292,
+    "sha256": "00bbfcea147dffb3970b85c018fae9c1247b28f5c8922f034590ab55fe5f4bc8",
+    "durationSec": 245.6,
+    "bitrate": 16005,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/fajr/Kuwait-Fajr.mp3",
+    "bytes": 419868,
+    "sha256": "f84c9570f5ad4e01980a824ff7874fb20f7a58b7dd294fef0e191b112da6d49a",
+    "durationSec": 209.8,
+    "bitrate": 16006,
+    "sampleRate": 16000,
+    "channels": 1
+  },
+  {
+    "path": "audio/adhan/fajr/Mishary-Alafasy-Fajr-2.mp3",
+    "bytes": 2308596,
+    "sha256": "ebd841fe128aa849d9af73e7d6f711cc950f3ce57e5e91ebcd237f566d097a33",
+    "durationSec": 288.5,
+    "bitrate": 64017,
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/016-an-nahl.mp3",
+    "bytes": 11886549,
+    "sha256": "673cedcffd621127138c20502042a82ab411a6266232a09c161328d3b4a8192f",
+    "durationSec": 1485.8,
+    "bitrate": 64001,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/019-maryam.mp3",
+    "bytes": 6485262,
+    "sha256": "e8f1b2bb52763c8038de88e7e92be8a8ed0d2942f4fbd4118789eb512b3e8aea",
+    "durationSec": 810.6,
+    "bitrate": 64002,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/020-taha.mp3",
+    "bytes": 4764524,
+    "sha256": "bead143a7224b4a840e4be4e35791740ed842393ddb0e213aa94c4fa5bfe5bf6",
+    "durationSec": 595.5,
+    "bitrate": 64002,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/024-an-nur.mp3",
+    "bytes": 13825879,
+    "sha256": "8f5771b3c7c170bc251f834c8b7ae2f12f84d7e2353387daec9da9042e6c6239",
+    "durationSec": 1728.2,
+    "bitrate": 64000,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/027-an-naml.mp3",
+    "bytes": 2691447,
+    "sha256": "911fb602d23af3f0712b93e847e4d32cc348e60bb70eebd348dab8bf1e4cbf62",
+    "durationSec": 336.4,
+    "bitrate": 64004,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/028-al-qasas.mp3",
+    "bytes": 2573164,
+    "sha256": "8d4895502e78ae250596c823c820b290ba2eafcd69c8faead0ed80472dd8248f",
+    "durationSec": 321.6,
+    "bitrate": 64005,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/047-muhammad.mp3",
+    "bytes": 2472854,
+    "sha256": "75f073ae7dc71d3dd0b7bf8600f841bb6e3b57ad0b78c0a9a9e79267878c0563",
+    "durationSec": 309.1,
+    "bitrate": 64005,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/048-al-fath.mp3",
+    "bytes": 7105096,
+    "sha256": "2aa946bdc821dfac284ec6e66d6077e215de27cea16c5dc00981fc2b68683a55",
+    "durationSec": 888.1,
+    "bitrate": 64001,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/054-al-qamar.mp3",
+    "bytes": 2457390,
+    "sha256": "22b5fa912d84468e6d07908a35d3bb1f377652c7f1def7c22b4b3b9b97feb7c1",
+    "durationSec": 307.1,
+    "bitrate": 64005,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/054-055-al-qamar-ar-rahman.mp3",
+    "bytes": 5381850,
+    "sha256": "e1a0290dbebe7ec15a8c50f8f7ef9ee115995834c8f1613b66cd623e06e5e1b8",
+    "durationSec": 672.7,
+    "bitrate": 64002,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/058-al-mujadila.mp3",
+    "bytes": 2557700,
+    "sha256": "639c822e8edfc91c3acef4a6c9ce5c757607723746c2d2c8f9c6e09cdc6b9863",
+    "durationSec": 319.7,
+    "bitrate": 64005,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/075-al-qiyamah.mp3",
+    "bytes": 4731088,
+    "sha256": "ea288bf87516d8410ed57737172f38fb24ad7d0fb2571118f4b9c2b14e9834ae",
+    "durationSec": 591.4,
+    "bitrate": 64002,
+    "sampleRate": 22050,
+    "channels": 2
+  },
+  {
+    "path": "audio/recitations/abdul-azim-zaher/086-at-tariq.mp3",
+    "bytes": 1603499,
+    "sha256": "84d4a01b2cc8a6f53366680dbe4f2729a940d009ab342c1b9d26bb1863a0eed1",
+    "durationSec": 200.4,
+    "bitrate": 64008,
+    "sampleRate": 22050,
+    "channels": 2
+  }
+]
