@@ -58,5 +58,65 @@
   "peak_dbtp": -4.0,
   "source": "https://freesound.org/s/697217/",
   "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "thunder": {
+  "path": "ambient/thunder.m4a",
+  "bytes": 707720,
+  "sha256": "5e5b7ed3c8275dd6fc34c9a19b4d67569940f151ff49bb4db4125a09787721c9",
+  "seconds": 58.0,
+  "lufs": -23.1,
+  "peak_dbtp": -1.5,
+  "source": "https://freesound.org/s/243777/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "fire": {
+  "path": "ambient/fire.m4a",
+  "bytes": 671308,
+  "sha256": "c500a51edae85ed126dd272f65511bc85cc730431bad91f038af1745d13429c9",
+  "seconds": 55.0,
+  "lufs": -23.0,
+  "peak_dbtp": -1.0,
+  "source": "https://freesound.org/s/382616/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "forest": {
+  "path": "ambient/forest.m4a",
+  "bytes": 707746,
+  "sha256": "92290309f0d106f12fff79b75d3ea16c747b340556f66925fc41d1f0ea3fa870",
+  "seconds": 58.0,
+  "lufs": -23.1,
+  "peak_dbtp": -10.4,
+  "source": "https://freesound.org/s/574550/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "fountain": {
+  "path": "ambient/fountain.m4a",
+  "bytes": 683103,
+  "sha256": "d58138b5aea21cf9bd2bd3ebf63167fe2edc495fc4608a71fa5b16f9c8c77197",
+  "seconds": 56.0,
+  "lufs": -23.1,
+  "peak_dbtp": -8.8,
+  "source": "https://freesound.org/s/554789/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "tent": {
+  "path": "ambient/tent.m4a",
+  "bytes": 683690,
+  "sha256": "5bed3dda34bbf54c3552477ab488a25851709d315da0d9c62853ab2c374014cc",
+  "seconds": 56.0,
+  "lufs": -23.3,
+  "peak_dbtp": -3.6,
+  "source": "https://freesound.org/s/457594/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "window": {
+  "path": "ambient/window.m4a",
+  "bytes": 683682,
+  "sha256": "c0d1a20785fc891826042abfa5ea515f9dd8457d941d25a6ba49cd5c58e419b0",
+  "seconds": 56.0,
+  "lufs": -23.1,
+  "peak_dbtp": -1.4,
+  "source": "https://freesound.org/s/243781/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
  }
 }
