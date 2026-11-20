@@ -1,0 +1,62 @@
+{
+ "rain": {
+  "path": "ambient/rain.m4a",
+  "bytes": 531333,
+  "sha256": "dd47ae36d1a39fb8f97618ec2c28a66fc1a0cb2e9f9f6f05d5577b8f87e108be",
+  "seconds": 43.5,
+  "lufs": -23.0,
+  "peak_dbtp": -8.2,
+  "source": "https://freesound.org/s/242889/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "waves": {
+  "path": "ambient/waves.m4a",
+  "bytes": 734293,
+  "sha256": "6f5bdf509198ab0c23cf50a4d0afa7e3db5e1d51d6ea2e9b7ca4a8f97b7b2991",
+  "seconds": 60.0,
+  "lufs": -23.1,
+  "peak_dbtp": -5.7,
+  "source": "https://freesound.org/s/578524/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "stream": {
+  "path": "ambient/stream.m4a",
+  "bytes": 686241,
+  "sha256": "9990caf6a3228267007829dc33094a83408afbdaaba63f064245113cf26142f5",
+  "seconds": 56.0,
+  "lufs": -22.9,
+  "peak_dbtp": -6.1,
+  "source": "https://freesound.org/s/446019/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "birds": {
+  "path": "ambient/birds.m4a",
+  "bytes": 733508,
+  "sha256": "6ce3417a816611a4f1228264bcc5f8ac7e9aff4aa1ac9a3bca7169986f8fcd85",
+  "seconds": 60.0,
+  "lufs": -23.2,
+  "peak_dbtp": -5.7,
+  "source": "https://freesound.org/s/353311/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "night": {
+  "path": "ambient/night.m4a",
+  "bytes": 675879,
+  "sha256": "ecdb2bc9ea3c307025d46a55e98a5e72fb587591d908dac37a594309712804b5",
+  "seconds": 55.0,
+  "lufs": -23.1,
+  "peak_dbtp": -14.2,
+  "source": "https://freesound.org/s/175020/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ },
+ "wind": {
+  "path": "ambient/wind.m4a",
+  "bytes": 445779,
+  "sha256": "5fb4e6455e042b89e354cd82c4a9b24c85bdc598437a7daf195f38f96e1b88d5",
+  "seconds": 36.5,
+  "lufs": -23.1,
+  "peak_dbtp": -4.0,
+  "source": "https://freesound.org/s/697217/",
+  "license": "Creative Commons 0, https://creativecommons.org/publicdomain/zero/1.0/"
+ }
+}
