@@ -1,0 +1,83 @@
+{
+ "sunset": {
+  "path": "video/backgrounds/v1/sunset.mp4",
+  "bytes": 1191224,
+  "sha256": "8f3a792deebb307ae0a813085c105533972e395f2819cdcdfede77d214170bfd",
+  "seconds": 7.0,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/stunning-orange-sunset-timelapse-with-clouds-29990138/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "clouds": {
+  "path": "video/backgrounds/v1/clouds.mp4",
+  "bytes": 3584277,
+  "sha256": "b2155b1109ed11db6b0088c8ff684fba753c3c850ad93a50196c7ee310fa6c3c",
+  "seconds": 15.0,
+  "size": "1072x1072",
+  "source": "https://www.pexels.com/video/time-lapse-video-of-clouds-in-the-blue-sky-7181320/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "stars": {
+  "path": "video/backgrounds/v1/stars.mp4",
+  "bytes": 2114707,
+  "sha256": "8ea20211379872b95029fabafb85fc7201ea6efa636dddc79e36a1c7f3a24ef7",
+  "seconds": 4.8,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/a-starry-night-sky-9341381/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "sea": {
+  "path": "video/backgrounds/v1/sea.mp4",
+  "bytes": 7827152,
+  "sha256": "be4e45d8df5c49ee2c254c39d160d8b35a0594e20af178958ff6e12df76b3390",
+  "seconds": 15.0,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/series-of-waves-kissing-the-sea-shoreline-3011162/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "rain": {
+  "path": "video/backgrounds/v1/rain.mp4",
+  "bytes": 6300914,
+  "sha256": "264c1b0e142962bf9af1065d34eb0e47dabdb8a8cc0b2627682d65492ef72bc6",
+  "seconds": 15.0,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/raindrops-on-a-window-glass-13619802/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "forest": {
+  "path": "video/backgrounds/v1/forest.mp4",
+  "bytes": 7627606,
+  "sha256": "78173030adc732432ab07813922d70c640abdec9631a8d25f52e362f437a3225",
+  "seconds": 15.0,
+  "size": "1072x1072",
+  "source": "https://www.pexels.com/video/sun-light-shining-in-misty-forest-6554123/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "dunes": {
+  "path": "video/backgrounds/v1/dunes.mp4",
+  "bytes": 1529241,
+  "sha256": "b13a5a5f20f946b061a2da09b2a993b01e550878fcb44ec38c07d0e9e51251e8",
+  "seconds": 9.8,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/majestic-desert-dunes-in-southwest-sunlight-32055642/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "waterfall": {
+  "path": "video/backgrounds/v1/waterfall.mp4",
+  "bytes": 7815645,
+  "sha256": "c70d48493da94fe94a583c60d029e0c7afc75db15a9af96aa85bb913455d5850",
+  "seconds": 15.0,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/tranquil-forest-stream-with-waterfall-35381656/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ },
+ "horizon": {
+  "path": "video/backgrounds/v1/horizon.mp4",
+  "bytes": 2861884,
+  "sha256": "dcccee70a4099c2fd3621a6d787da00fcd4b0b2fa80be83cde41952d6c43c2d9",
+  "seconds": 15.0,
+  "size": "1280x1280",
+  "source": "https://www.pexels.com/video/33161845/",
+  "license": "Pexels License, https://www.pexels.com/license/"
+ }
+}
